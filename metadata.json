@@ -1,0 +1,7 @@
+{
+  "name": "CiviConnect-AI",
+  "description": "AI-powered civic engagement platform for reporting, tracking, and resolving community issues with intelligent triage, automated department dispatch, and interactive citizen maps.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
